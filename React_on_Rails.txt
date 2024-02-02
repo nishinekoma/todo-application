@@ -1,0 +1,10 @@
+参考：
+https://mrradiology.hatenablog.jp/entry/2023/11/12/164458
+
+Ruby
+https://rubyinstaller.org/downloads/
+Ruby on Rails downloads
+管理者権限で　gem update --system
+              gem install rails
+
+
